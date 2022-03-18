@@ -1,3 +1,3 @@
-module github.com/Jairo852016/ModulosGolang.git
+module github.com/Jairo852016/ModulosGolang
 
 go 1.18
